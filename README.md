@@ -5,7 +5,7 @@ We trained a XGBoost model to classify the sentiment of tweets and visualized th
 The training dataset should be a csv file with 3 columns: Id, Category,Tweet,
 The test dataset should be a csv file with 2 columns: Id, Tweet.
  
-The main code is in classification/sentiment_analysis.ipynb
+The main code is in prepocessing&classfier/sentiment_analysis.ipynb
 The pre-trained word2vec and dataset are very large, so we didn't put them here. 
 
 Visualization code and a sample data file are in /visualization
